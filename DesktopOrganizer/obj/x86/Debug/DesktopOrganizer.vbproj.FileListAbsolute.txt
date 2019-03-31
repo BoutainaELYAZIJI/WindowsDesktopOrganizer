@@ -7,3 +7,12 @@ C:\Users\Boutaina\documents\visual studio 2010\Projects\DesktopOrganizer\Desktop
 C:\Users\Boutaina\documents\visual studio 2010\Projects\DesktopOrganizer\DesktopOrganizer\obj\x86\Debug\DesktopOrganizer.exe
 C:\Users\Boutaina\documents\visual studio 2010\Projects\DesktopOrganizer\DesktopOrganizer\obj\x86\Debug\DesktopOrganizer.xml
 C:\Users\Boutaina\documents\visual studio 2010\Projects\DesktopOrganizer\DesktopOrganizer\obj\x86\Debug\DesktopOrganizer.pdb
+C:\ALL\WindowsDesktopOrganizer\DesktopOrganizer\obj\x86\Debug\DesktopOrganizer.exe
+C:\ALL\WindowsDesktopOrganizer\DesktopOrganizer\obj\x86\Debug\DesktopOrganizer.xml
+C:\ALL\WindowsDesktopOrganizer\DesktopOrganizer\obj\x86\Debug\DesktopOrganizer.pdb
+C:\ALL\WindowsDesktopOrganizer\DesktopOrganizer\bin\Debug\DesktopOrganizer.exe
+C:\ALL\WindowsDesktopOrganizer\DesktopOrganizer\bin\Debug\DesktopOrganizer.pdb
+C:\ALL\WindowsDesktopOrganizer\DesktopOrganizer\bin\Debug\DesktopOrganizer.xml
+C:\ALL\WindowsDesktopOrganizer\DesktopOrganizer\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\ALL\WindowsDesktopOrganizer\DesktopOrganizer\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\ALL\WindowsDesktopOrganizer\DesktopOrganizer\obj\x86\Debug\DesktopOrganizer.vbproj.GenerateResource.Cache
