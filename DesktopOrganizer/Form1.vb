@@ -31,7 +31,7 @@ Public Class Form1
             End Select
 
         Next
-
+        Return 0
 
     End Function
 
@@ -130,6 +130,9 @@ Public Class Form1
             End Select
 
         Next
+
+
+        Return 0
     End Function
 
 
@@ -434,7 +437,27 @@ Public Class Form1
 
     End Sub
 
-    Private Sub Button7_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button7.Click
-        OrganizePrograms()
+    Private Sub Panel6_Paint(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles Panel6.Paint
+
+    End Sub
+
+    Private Sub Button7_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+
+    End Sub
+
+    Private Sub Panel8_Paint(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles Panel8.Paint
+
+    End Sub
+
+    Private Sub Panel9_Paint(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles Panel9.Paint
+
+    End Sub
+
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub BtnOrganize_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BtnOrganize.Click
+
     End Sub
 End Class
